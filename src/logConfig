@@ -1,0 +1,10 @@
+# This is a logger configuration file
+# User can provide Log file name as well as log level
+# Other parameters (DATE, TIME, FILENAME, LINE_NUMBER) are binary indicators (true[1]/false[0]) 
+# The parameter will be logged to Log File only when it is true.
+LOG_FILE=testLogger.log;
+LOG_LEVEL=1;
+DATE=1;
+TIME=0;
+FILE_NAME=1;
+LINE_NUMBER=;
