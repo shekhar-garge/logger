@@ -1,1 +1,2 @@
-SFASFASFASFASF
+All object files are here.
+To change this setting, modify makefile
